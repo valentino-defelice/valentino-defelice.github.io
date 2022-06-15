@@ -1,3 +1,6 @@
 - [Homepage](README.md)
 - Kubernetes
   - [API Migration](kubernetes/api-migration/README.md)
+- AWS
+  - VPN
+    - [AWS-Azure VPN connection](aws/VPN/aws-azure-vpn-connection.md)
