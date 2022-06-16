@@ -2,5 +2,8 @@
 - Kubernetes
   - [API Migration](kubernetes/api-migration/README.md)
 - AWS
+  - CloudWatch
+    - [Alarm Namespaces](aws/Cloudwatch/Alarms/alarm_namespaces)
+    - [Alarm Namespaces Metrics](aws/Cloudwatch/Alarms/alarm_namespace_metrics)
   - VPN
     - [AWS-Azure VPN connection](aws/VPN/aws-azure-vpn-connection.md)
