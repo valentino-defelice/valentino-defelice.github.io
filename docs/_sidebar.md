@@ -7,3 +7,6 @@
     - [Alarm Namespaces Metrics](aws/Cloudwatch/Alarms/alarm_namespace_metrics)
   - VPN
     - [AWS-Azure VPN connection](aws/VPN/aws-azure-vpn-connection.md)
+- Azure
+  - API Management
+    - [Redirect HTTP to HTTPS](azure/api-management/redirect-http-https.md)
