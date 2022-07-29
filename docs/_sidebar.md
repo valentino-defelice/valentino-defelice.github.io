@@ -1,6 +1,8 @@
 - [Homepage](README.md)
 - Kubernetes
   - [API Migration](kubernetes/api-migration/README.md)
+  - Ingress
+    - [HTTPS - Default backend redirect](kubernetes/ingress/https-default-backend-redirect.md)
 - AWS
   - CloudWatch
     - [Alarm Namespaces](aws/Cloudwatch/Alarms/alarm_namespaces)
