@@ -11,6 +11,8 @@
     - [AWS-Azure VPN connection](aws/VPN/aws-azure-vpn-connection.md)
   - Autoscaling
     - [ECS](aws/Autoscaling/ecs-services-autoscaling.md)
+  - Transfer Family
+    - [VPC with Lambda for auth](aws/TransferFamily/private-sftp-lambda-auth.md)
 - Azure
   - API Management
     - [Redirect HTTP to HTTPS](azure/api-management/redirect-http-https.md)
